@@ -1,3 +1,5 @@
+![](/images/station.jpg)
+
 # hISStory
 
 *hISStory is the visualisation of the History of the International Space Station made in the course “Input-Output” supervised by Fabian Morón Zirfas.*
@@ -37,18 +39,23 @@ In the first step the information was researched and filtered to get the most im
 In addition, thoughts were written down on how the text could be transformed into pictures, and how the pictures could make the text visually more appealing - and therefore easier and more pleasant to read. 
 First sketches were made and transformed with illustrator into graphics. 
 
-// image 
+![](/images/astronaut_standing.jpg)
+
 The visual choice of high contrast images in black and white was made to convey a sense of a serious scientific character without sacrificing graphic aesthetism. The black background already serves as a symbol for the universe in our common cultural reference pattern.
 
 The title font was chosen as to be easily readable and able to capture the reader's attention.
 For the running text, a good, readable Sans Serif Font was deemed the most appropriate. 
 
-// image 
+![](/images/fonts.jpg)
 
 The format was chosen to support the idea of an vertical time line. The grey horizontal stripes give it a certain graphic structure, which also serves as a temporal marker.
 
-//image 
+![](/images/format.jpg)
 
 The small scale of the infographic has been chosen as to show the international importance of the ISS without overshadowing its historical aspects.
 
+![](/images/info.jpg)
+
 Final result:
+
+![](/images/ISS14.jpg)
